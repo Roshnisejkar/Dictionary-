@@ -1,0 +1,25 @@
+*{
+    padding:0px;
+    margin:10px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:darkgrey;
+}
+label,input,button{
+    font-size: 20px;
+}
+h1{
+    font-size: 30px;
+    background-color: rgb(116, 86, 86);
+}
+
+h1,form{
+    text-align: center;
+
+}
+div{
+    text-align: center;
+    font-size: 20px;
+}
